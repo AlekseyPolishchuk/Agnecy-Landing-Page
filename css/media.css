@@ -181,6 +181,10 @@
 }
 
 @media screen and (max-width: 768px) {
+  body {
+    min-width: 700px;
+  }
+
   .container {
     width: 700px;
   }
@@ -283,6 +287,9 @@
 }
 
 @media screen and (max-width: 320px) {
+  body {
+    min-width: 300px;
+  }
   .container {
     width: 300px;
   }

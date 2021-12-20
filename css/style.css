@@ -133,6 +133,7 @@ body {
 }
 
 .intro-video {
+  border: none;
   width: 550px;
   height: 356px;
   -webkit-box-shadow: -2px -15px 40px 4px rgba(0, 0, 0, 0.29);
